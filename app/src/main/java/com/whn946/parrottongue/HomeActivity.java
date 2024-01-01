@@ -86,9 +86,9 @@ public class HomeActivity extends AppCompatActivity {
             public void onClick(View arg0) {
                 Intent sendIntent = new Intent();
                 sendIntent.setAction(Intent.ACTION_SEND);
-                sendIntent.putExtra(Intent.EXTRA_TEXT,"助力微餐饮行业，文转音V2.0全新出发。下载地址：https://projects.whn946.cn/wzy/index.html");
+                sendIntent.putExtra(Intent.EXTRA_TEXT,"助力听写，听写小能手V2.0全新出发。下载地址：");
                 sendIntent.setType("text/plain");
-                startActivity(Intent.createChooser(sendIntent,"分享文转音"));
+                startActivity(Intent.createChooser(sendIntent,"分享听写小能手"));
 
             }
         });
