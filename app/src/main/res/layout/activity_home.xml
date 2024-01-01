@@ -20,7 +20,7 @@
             android:layout_weight="1"
             android:gravity="center_vertical"
             android:paddingLeft="20dp"
-            android:text="文转音"
+            android:text="听写小能手"
             android:textColor="#404040"
             android:textSize="20dp"
             android:textStyle="bold" />
