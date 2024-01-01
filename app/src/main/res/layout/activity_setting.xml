@@ -49,7 +49,7 @@
             android:layout_height="30dp"
             android:background="#FFFFFF"
             android:gravity="center"
-            android:text="文转音"
+            android:text="听写小能手"
             android:textSize="16dp"
             android:textColor="#404040" />
         <TextView
@@ -82,7 +82,7 @@
             android:foreground="?android:selectableItemBackground"
             android:gravity="center_vertical"
             android:paddingLeft="20dp"
-            android:text="联系作者：@章鱼小哥（点击聊天）"
+            android:text="联系作者：@彪哥（点击聊天）"
             android:textColor="#404040" />
 
 
@@ -96,7 +96,7 @@
             android:foreground="?android:selectableItemBackground"
             android:gravity="center_vertical"
             android:paddingLeft="20dp"
-            android:text="QQ交流群：625141779（点击加群）"
+            android:text="QQ交流群：（点击加群）"
             android:textColor="#404040" />
         <TextView
             android:id="@+id/viewHelpBtn"
