@@ -70,7 +70,7 @@
                     android:layout_height="30dp"
                     android:gravity="center_vertical"
                     android:paddingLeft="20dp"
-                    android:text="提取自MIUI11，声音超级好听！"
+                    android:text="小米自带，声音超级好听！"
                     android:textColor="#616161" />
             </LinearLayout>
 
